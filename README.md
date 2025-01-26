@@ -12,7 +12,7 @@ Wordy is a very basic clone of the wc utility in UNIX written in python.
 To use this module simply run:
 
 ```sh
-python3 wordy [flags] [path_to_file]
+python3 wordy.py [flags] [path_to_file]
 ```
 
 #### Flags
@@ -26,13 +26,13 @@ python3 wordy [flags] [path_to_file]
 
 ## Installation
 
-#### Clone wordy
-
 ### Install External Dependencies
 
 External Requirements:
 
 - Basic utils: `git`, `python3`
+
+#### Clone wordy
 
 ```sh
 git clone https://github.com/akashddas/wordy.git
