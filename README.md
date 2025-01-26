@@ -1,7 +1,8 @@
 <div align="center">
+
 # wordy
 
-Wordy is a very basic clone of the wc utility in UNIX written in python.
+Wordy is a very basic clone of the `wc` utility in UNIX, written in Python.
 
 [Usage](#usage) • [Installation](#installation)
 
